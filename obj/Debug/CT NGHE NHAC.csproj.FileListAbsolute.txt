@@ -1,0 +1,15 @@
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\bin\Debug\CT NGHE NHAC.exe.config
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\bin\Debug\CT NGHE NHAC.exe
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\bin\Debug\CT NGHE NHAC.pdb
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\bin\Debug\Interop.WMPLib.dll
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\obj\Debug\CT NGHE NHAC.csprojAssemblyReference.cache
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\obj\Debug\Interop.WMPLib.dll
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\obj\Debug\CT NGHE NHAC.csproj.ResolveComReference.cache
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\obj\Debug\CT_NGHE_NHAC.Form1.resources
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\obj\Debug\CT_NGHE_NHAC.Properties.Resources.resources
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\obj\Debug\CT NGHE NHAC.csproj.GenerateResource.cache
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\obj\Debug\CT NGHE NHAC.csproj.CoreCompileInputs.cache
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\obj\Debug\CT NGHE NHAC.exe
+C:\Users\os\source\repos\CT NGHE NHAC\CT NGHE NHAC\obj\Debug\CT NGHE NHAC.pdb
